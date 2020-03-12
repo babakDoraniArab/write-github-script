@@ -1,2 +1,3 @@
-# write-github-script-template
-The template repository for the write-github-script course on Learning Lab.
+# GitHub Actions: Using GitHub Script
+
+Navigate to the first issue in this repository to begin your course.
